@@ -7,6 +7,12 @@ body
     margin: 0;
     padding: 0;
 }
+#cabecera{
+    background-color: rgb(255, 255, 255);
+    color: rgba(255, 255, 255, 0);
+    padding: 10px;
+    text-align: center;
+}
 #container
 {
     width: 70%;
