@@ -8,8 +8,8 @@ body
     padding: 0;
 }
 #cabecera{
-    background-color: rgb(255, 255, 255);
-    color: rgba(255, 255, 255, 0);
+    background-color: rgb(255, 0, 0);
+    color: rgba(225, 255, 0, 0);
     padding: 10px;
     text-align: center;
 }
