@@ -16,5 +16,5 @@ Master 2
 Prueba master main
 
 Creado por Luis y Platzi
-Hecho en Mac
+Hecho en Mac y Linux
 Para todo el mundo
